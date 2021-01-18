@@ -12,5 +12,5 @@ client.on('message', message => {
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login(Nzk5MjE5NDMzNjYxOTIzMzYw.YAAZGQ._ELhdbdApkwIv3iumVXJtTutGA8
+client.login(PAX1-RxvjmPv1K1SzMGkyrb1xPzoNVpR
 );
